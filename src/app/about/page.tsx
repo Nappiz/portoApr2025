@@ -104,7 +104,7 @@ export default function About() {
                 Education
               </h2>
             </div>
-            <button className="bg-blue-500 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-600 transition-colors duration-300">
+            <button className="bg-blue-500 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-600 transition-colors duration-300 cursor-pointer">
               Download Resume
             </button>
           </div>
